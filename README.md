@@ -1,1 +1,2 @@
-# pic-move-and-stich
+# pic-move-and-stich   
+# wechat based

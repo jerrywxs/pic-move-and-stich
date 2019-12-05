@@ -1,0 +1,18 @@
+ <view class="page-body-wrapper">
+  <!-- <image class="logo" src='../../image/logo.png' mode='widthFix'></image> -->
+
+  <!-- <pre name="code" class="html"><view style="position: relative;"> -->
+    <!-- <view styleview="position: absolute;">
+      <image class="logo" src="../../image/logo.png"></image>
+    </view> -->
+  <!-- <img src="image/duck.jpeg"/>
+  </view></pre> -->
+
+  <image class="bg-img" src='../../image/background.png' mode='widthFix'></image>
+  <view class="btn-area">
+    <navigator class="btn btn1" hover-class="none" url="../modifyPhoto/modify"><text class="icon1"></text><text class="text">Edit Photo</text></navigator>
+    <navigator class="btn btn2" hover-class="none" url="../spliceMenu/spliceMenu"><text class="icon2"></text><text class="text">Merge Photo</text></navigator>
+    <navigator class="btn btn3" hover-class="none" url="../move/move"><text class="icon3"></text><text class="text">move</text></navigator>
+  </view>
+</view>
+
